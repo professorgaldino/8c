@@ -59,6 +59,37 @@
       border-radius: 8px;
     }
 
+    .page-selector {
+      margin-top: 10px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      padding: 10px;
+    }
+
+    .page-selector button {
+      background: #fff;
+      border: 2px solid #007bff;
+      color: #007bff;
+      font-size: 16px;
+      padding: 5px 10px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    .page-selector button.active {
+      background: #007bff;
+      color: white;
+      font-weight: bold;
+      cursor: default;
+    }
+
+    .page-selector button:hover:not(.active) {
+      background: #007bff;
+      color: white;
+    }
+
     iframe {
       flex: 1;
       border: none;
@@ -77,8 +108,10 @@
       <button onclick="goNext()">Próxima →</button>
     </div>
 
-    <button onclick="window.location.href='outros9a.html'">Verificar outras situações →</button>
+    <button onclick="window.location.href='outros.html'">Verificar outras situações →</button>
   </div>
+
+  <div class="page-selector" id="page-selector"></div>
 
   <iframe id="viewer" src="a1.html"></iframe>
 
@@ -95,12 +128,32 @@
 
     const viewer = document.getElementById("viewer");
     const pageNumber = document.getElementById("page-number");
+    const pageSelector = document.getElementById("page-selector");
 
     function updateViewer() {
       const currentPage = pages[currentIndex];
       const pageNum = currentPage.match(/\d+/)[0];
       viewer.src = currentPage;
       pageNumber.textContent = "Página: " + pageNum;
+      updatePageSelector();
+    }
+
+    function updatePageSelector() {
+      pageSelector.innerHTML = '';
+      pages.forEach((page, index) => {
+        const pageNum = page.match(/\d+/)[0];
+        const button = document.createElement("button");
+        button.textContent = pageNum;
+        if (index === currentIndex) {
+          button.classList.add("active");
+        } else {
+          button.onclick = () => {
+            currentIndex = index;
+            updateViewer();
+          };
+        }
+        pageSelector.appendChild(button);
+      });
     }
 
     function goPrev() {
