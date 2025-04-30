@@ -1,6 +1,6 @@
 {
   "1": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         7,
         "-",
@@ -15,7 +15,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         6,
         "-",
@@ -30,7 +30,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         5,
         "-",
@@ -45,7 +45,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         8,
         "-",
@@ -60,7 +60,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         3,
         "-",
@@ -75,7 +75,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         7,
         "-",
@@ -90,7 +90,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         6,
         "-",
@@ -105,22 +105,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        8,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        1,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -135,7 +135,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         6,
         "-",
@@ -150,7 +150,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         6,
         "-",
@@ -165,7 +165,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         5,
         "-",
@@ -180,7 +180,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         8,
         "-",
@@ -195,7 +195,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         7,
         "-",
@@ -210,7 +210,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         6,
         "-",
@@ -227,7 +227,7 @@
     }
   },
   "2": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         8,
         "-",
@@ -242,7 +242,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         7,
         "-",
@@ -257,7 +257,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         7,
         "-",
@@ -272,7 +272,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         9,
         "-",
@@ -287,7 +287,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         7,
         "-",
@@ -302,7 +302,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         5,
         "-",
@@ -317,7 +317,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         8,
         "-",
@@ -332,22 +332,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        8,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        3,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -362,7 +362,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         7,
         "-",
@@ -377,7 +377,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         7,
         "-",
@@ -392,7 +392,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         6,
         "-",
@@ -407,7 +407,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         8,
         "-",
@@ -422,7 +422,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         7,
         "-",
@@ -437,7 +437,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         6,
         "-",
@@ -454,7 +454,7 @@
     }
   },
   "3": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         7,
         "-",
@@ -469,7 +469,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         8,
         "-",
@@ -484,7 +484,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         9,
         "-",
@@ -499,7 +499,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         10,
         "-",
@@ -514,7 +514,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         8,
         "-",
@@ -529,7 +529,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         8,
         "-",
@@ -544,7 +544,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         6,
         "-",
@@ -559,22 +559,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        9,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        1,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         7,
         "-",
@@ -589,7 +589,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         5,
         "-",
@@ -604,7 +604,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         8,
         "-",
@@ -619,7 +619,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         6,
         "-",
@@ -634,7 +634,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         8,
         "-",
@@ -649,7 +649,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         8,
         "-",
@@ -664,7 +664,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         8,
         "-",
@@ -681,7 +681,7 @@
     }
   },
   "4": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         6,
         "-",
@@ -696,7 +696,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         8,
         "-",
@@ -711,7 +711,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         5,
         "-",
@@ -726,7 +726,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         9,
         "-",
@@ -741,7 +741,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         6,
         "-",
@@ -756,7 +756,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         7,
         "-",
@@ -771,7 +771,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         6,
         "-",
@@ -786,22 +786,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        6,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        4,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -816,7 +816,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         7,
         "-",
@@ -831,7 +831,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -846,7 +846,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         7,
         "-",
@@ -861,7 +861,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         7,
         "-",
@@ -876,7 +876,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         7,
         "-",
@@ -891,7 +891,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         7,
         "-",
@@ -908,7 +908,7 @@
     }
   },
   "5": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         5,
         "-",
@@ -923,7 +923,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         5,
         "-",
@@ -938,7 +938,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         3,
         "-",
@@ -953,7 +953,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         7,
         "-",
@@ -968,7 +968,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         5,
         "-",
@@ -983,9 +983,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
-        4,
+        5,
         "-",
         "-",
         "-"
@@ -998,7 +998,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         4,
         "-",
@@ -1013,22 +1013,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        7,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        2,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         3,
         "-",
@@ -1043,9 +1043,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
-        3,
+        5,
         "-",
         "-",
         "-"
@@ -1058,7 +1058,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -1073,7 +1073,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         6,
         "-",
@@ -1088,7 +1088,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         6,
         "-",
@@ -1103,7 +1103,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         5,
         "-",
@@ -1118,7 +1118,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         5,
         "-",
@@ -1135,7 +1135,7 @@
     }
   },
   "6": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         "-",
         "-",
@@ -1150,7 +1150,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         "-",
         "-",
@@ -1165,7 +1165,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         "-",
         "-",
@@ -1180,7 +1180,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         "-",
         "-",
@@ -1195,7 +1195,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         "-",
         "-",
@@ -1210,7 +1210,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         "-",
         "-",
@@ -1225,7 +1225,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         "-",
         "-",
@@ -1240,7 +1240,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
         "-",
         "-",
@@ -1248,14 +1248,14 @@
         "-"
       ],
       "faltas": [
-        "-",
+        10,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         "-",
         "-",
@@ -1270,7 +1270,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         "-",
         "-",
@@ -1285,7 +1285,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         "-",
         "-",
@@ -1300,7 +1300,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         "-",
         "-",
@@ -1315,7 +1315,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         "-",
         "-",
@@ -1330,7 +1330,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         "-",
         "-",
@@ -1345,7 +1345,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         "-",
         "-",
@@ -1362,7 +1362,7 @@
     }
   },
   "7": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         7,
         "-",
@@ -1377,7 +1377,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         7,
         "-",
@@ -1392,7 +1392,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         5,
         "-",
@@ -1407,7 +1407,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         9,
         "-",
@@ -1422,7 +1422,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         5,
         "-",
@@ -1437,7 +1437,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         5,
         "-",
@@ -1452,7 +1452,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         5,
         "-",
@@ -1467,22 +1467,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        7,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        2,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         3,
         "-",
@@ -1497,7 +1497,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         7,
         "-",
@@ -1512,7 +1512,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -1527,7 +1527,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         8,
         "-",
@@ -1542,7 +1542,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         6,
         "-",
@@ -1557,7 +1557,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         4,
         "-",
@@ -1572,7 +1572,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         8,
         "-",
@@ -1589,7 +1589,7 @@
     }
   },
   "8": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         6,
         "-",
@@ -1604,7 +1604,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         5,
         "-",
@@ -1619,7 +1619,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         7,
         "-",
@@ -1634,7 +1634,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         9,
         "-",
@@ -1649,7 +1649,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         3,
         "-",
@@ -1664,7 +1664,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         5,
         "-",
@@ -1679,67 +1679,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
-      "notas": [
-        4,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        4,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "LÍNGUA INGLESA": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "LÍNGUA PORTUGUESA": {
-      "notas": [
-        6,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        3,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "MATEMÁTICA": {
-      "notas": [
-        6,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        7,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "História": {
       "notas": [
         5,
         "-",
@@ -1747,14 +1687,14 @@
         "-"
       ],
       "faltas": [
-        "-",
+        4,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Língua Inglesa": {
       "notas": [
         7,
         "-",
@@ -1769,7 +1709,67 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Língua Portuguesa": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
       "notas": [
         6,
         "-",
@@ -1784,7 +1784,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         7,
         "-",
@@ -1799,7 +1799,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         7,
         "-",
@@ -1816,7 +1816,7 @@
     }
   },
   "9": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         5,
         "-",
@@ -1831,7 +1831,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         3,
         "-",
@@ -1846,7 +1846,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         2,
         "-",
@@ -1861,7 +1861,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         7,
         "-",
@@ -1876,7 +1876,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         6,
         "-",
@@ -1891,7 +1891,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         4,
         "-",
@@ -1906,7 +1906,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         3,
         "-",
@@ -1921,22 +1921,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        5,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        2,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         3,
         "-",
@@ -1951,9 +1951,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
-        3,
+        4,
         "-",
         "-",
         "-"
@@ -1966,7 +1966,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         6,
         "-",
@@ -1981,7 +1981,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         5,
         "-",
@@ -1996,7 +1996,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         6,
         "-",
@@ -2011,7 +2011,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         3,
         "-",
@@ -2026,7 +2026,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         4,
         "-",
@@ -2043,7 +2043,7 @@
     }
   },
   "10": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         1,
         "-",
@@ -2058,7 +2058,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         4,
         "-",
@@ -2073,7 +2073,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         3,
         "-",
@@ -2088,7 +2088,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         7,
         "-",
@@ -2103,7 +2103,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         7,
         "-",
@@ -2118,7 +2118,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         3,
         "-",
@@ -2133,7 +2133,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         3,
         "-",
@@ -2148,22 +2148,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        5,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        7,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         2,
         "-",
@@ -2178,7 +2178,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         4,
         "-",
@@ -2193,7 +2193,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -2208,7 +2208,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         4,
         "-",
@@ -2223,7 +2223,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         6,
         "-",
@@ -2238,7 +2238,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         3,
         "-",
@@ -2253,7 +2253,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         1,
         "-",
@@ -2270,7 +2270,7 @@
     }
   },
   "11": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         9,
         "-",
@@ -2285,7 +2285,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         6,
         "-",
@@ -2300,7 +2300,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         5,
         "-",
@@ -2315,7 +2315,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         8,
         "-",
@@ -2330,7 +2330,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         8,
         "-",
@@ -2345,7 +2345,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         5,
         "-",
@@ -2360,7 +2360,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         5,
         "-",
@@ -2375,22 +2375,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        6,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        1,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -2405,7 +2405,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         6,
         "-",
@@ -2420,7 +2420,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         6,
         "-",
@@ -2435,7 +2435,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         7,
         "-",
@@ -2450,7 +2450,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         6,
         "-",
@@ -2465,7 +2465,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         5,
         "-",
@@ -2480,7 +2480,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         7,
         "-",
@@ -2497,7 +2497,7 @@
     }
   },
   "12": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         8,
         "-",
@@ -2512,7 +2512,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         7,
         "-",
@@ -2527,7 +2527,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         4,
         "-",
@@ -2542,7 +2542,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         10,
         "-",
@@ -2557,7 +2557,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         10,
         "-",
@@ -2572,7 +2572,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         8,
         "-",
@@ -2587,7 +2587,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         9,
         "-",
@@ -2602,9 +2602,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        8,
         "-",
         "-",
         "-"
@@ -2617,37 +2617,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
-      "notas": [
-        5,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "MATEMÁTICA": {
-      "notas": [
-        7,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -2662,7 +2632,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         7,
         "-",
@@ -2677,7 +2647,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
       "notas": [
         7,
         "-",
@@ -2692,7 +2677,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Projeto de Vida": {
       "notas": [
         7,
         "-",
@@ -2707,7 +2692,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Redação e Leitura": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Tecnologia e Inovação": {
       "notas": [
         8,
         "-",
@@ -2724,7 +2724,7 @@
     }
   },
   "13": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         7,
         "-",
@@ -2739,7 +2739,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         6,
         "-",
@@ -2754,7 +2754,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         2,
         "-",
@@ -2769,7 +2769,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         9,
         "-",
@@ -2784,7 +2784,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         3,
         "-",
@@ -2799,7 +2799,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         6,
         "-",
@@ -2814,7 +2814,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         4,
         "-",
@@ -2829,9 +2829,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        6,
         "-",
         "-",
         "-"
@@ -2844,7 +2844,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         4,
         "-",
@@ -2859,7 +2859,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         5,
         "-",
@@ -2874,7 +2874,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -2889,7 +2889,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         7,
         "-",
@@ -2904,7 +2904,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         6,
         "-",
@@ -2919,7 +2919,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         5,
         "-",
@@ -2934,7 +2934,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         5,
         "-",
@@ -2951,7 +2951,7 @@
     }
   },
   "14": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         5,
         "-",
@@ -2966,9 +2966,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
-        4,
+        5,
         "-",
         "-",
         "-"
@@ -2981,7 +2981,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         2,
         "-",
@@ -2996,7 +2996,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         6,
         "-",
@@ -3011,7 +3011,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         6,
         "-",
@@ -3026,7 +3026,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         7,
         "-",
@@ -3041,7 +3041,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         3,
         "-",
@@ -3056,82 +3056,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "LÍNGUA PORTUGUESA": {
-      "notas": [
-        3,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        2,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "MATEMÁTICA": {
-      "notas": [
-        5,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        5,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
-      "notas": [
-        5,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        1,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
-      "notas": [
-        4,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        1,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "PROJETO DE VIDA": {
+    "Língua Inglesa": {
       "notas": [
         6,
         "-",
@@ -3146,7 +3071,82 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Língua Portuguesa": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
       "notas": [
         4,
         "-",
@@ -3161,9 +3161,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
-        4,
+        5,
         "-",
         "-",
         "-"
@@ -3178,7 +3178,7 @@
     }
   },
   "15": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         1,
         "-",
@@ -3193,7 +3193,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         3,
         "-",
@@ -3208,7 +3208,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         1,
         "-",
@@ -3223,7 +3223,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         7,
         "-",
@@ -3238,7 +3238,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         9,
         "-",
@@ -3253,7 +3253,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         5,
         "-",
@@ -3268,7 +3268,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         3,
         "-",
@@ -3283,22 +3283,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        5,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        2,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         3,
         "-",
@@ -3313,7 +3313,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         3,
         "-",
@@ -3328,7 +3328,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -3343,7 +3343,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         5,
         "-",
@@ -3358,7 +3358,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         6,
         "-",
@@ -3373,7 +3373,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         5,
         "-",
@@ -3388,7 +3388,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         1,
         "-",
@@ -3396,7 +3396,7 @@
         "-"
       ],
       "faltas": [
-        4,
+        12,
         "-",
         "-",
         "-"
@@ -3405,7 +3405,7 @@
     }
   },
   "16": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         "-",
         "-",
@@ -3420,7 +3420,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         "-",
         "-",
@@ -3435,7 +3435,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         "-",
         "-",
@@ -3450,7 +3450,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         "-",
         "-",
@@ -3465,7 +3465,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         "-",
         "-",
@@ -3480,82 +3480,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        2,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "HISTÓRIA": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "LÍNGUA INGLESA": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "LÍNGUA PORTUGUESA": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "MATEMÁTICA": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Geografia": {
       "notas": [
         "-",
         "-",
@@ -3570,7 +3495,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "História": {
       "notas": [
         "-",
         "-",
@@ -3585,7 +3510,82 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
       "notas": [
         "-",
         "-",
@@ -3600,7 +3600,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         "-",
         "-",
@@ -3615,7 +3615,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         "-",
         "-",
@@ -3632,7 +3632,7 @@
     }
   },
   "17": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         8,
         "-",
@@ -3647,7 +3647,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         7,
         "-",
@@ -3662,7 +3662,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         6,
         "-",
@@ -3677,7 +3677,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         8,
         "-",
@@ -3692,7 +3692,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         7,
         "-",
@@ -3707,7 +3707,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         7,
         "-",
@@ -3722,7 +3722,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         8,
         "-",
@@ -3737,37 +3737,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        8,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        1,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
-      "notas": [
-        6,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "MATEMÁTICA": {
+    "Língua Portuguesa": {
       "notas": [
         6,
         "-",
@@ -3782,7 +3767,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Matemática": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -3797,7 +3797,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         7,
         "-",
@@ -3812,7 +3812,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         8,
         "-",
@@ -3827,7 +3827,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         7,
         "-",
@@ -3842,7 +3842,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         7,
         "-",
@@ -3859,7 +3859,7 @@
     }
   },
   "18": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         7,
         "-",
@@ -3874,7 +3874,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         6,
         "-",
@@ -3889,7 +3889,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         7,
         "-",
@@ -3904,7 +3904,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         9,
         "-",
@@ -3919,7 +3919,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         8,
         "-",
@@ -3934,7 +3934,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         8,
         "-",
@@ -3949,9 +3949,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
-        5,
+        6,
         "-",
         "-",
         "-"
@@ -3964,22 +3964,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        9,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        1,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         6,
         "-",
@@ -3994,7 +3994,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         6,
         "-",
@@ -4009,7 +4009,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -4024,7 +4024,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         6,
         "-",
@@ -4039,7 +4039,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         7,
         "-",
@@ -4054,7 +4054,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         5,
         "-",
@@ -4069,7 +4069,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         6,
         "-",
@@ -4086,9 +4086,9 @@
     }
   },
   "19": {
-    "ARTE": {
+    "Arte": {
       "notas": [
-        "-",
+        5,
         "-",
         "-",
         "-"
@@ -4101,7 +4101,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         2,
         "-",
@@ -4116,7 +4116,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         1,
         "-",
@@ -4131,7 +4131,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         "-",
         "-",
@@ -4146,7 +4146,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         7,
         "-",
@@ -4161,7 +4161,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         2,
         "-",
@@ -4176,7 +4176,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         2,
         "-",
@@ -4191,22 +4191,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        5,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        4,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         1,
         "-",
@@ -4221,7 +4221,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         1,
         "-",
@@ -4236,7 +4236,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         "-",
         "-",
@@ -4251,7 +4251,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         6,
         "-",
@@ -4266,7 +4266,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         5,
         "-",
@@ -4281,7 +4281,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         4,
         "-",
@@ -4296,7 +4296,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         5,
         "-",
@@ -4313,7 +4313,7 @@
     }
   },
   "20": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         "-",
         "-",
@@ -4328,7 +4328,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         "-",
         "-",
@@ -4343,7 +4343,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         "-",
         "-",
@@ -4358,7 +4358,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         "-",
         "-",
@@ -4373,7 +4373,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         "-",
         "-",
@@ -4388,7 +4388,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         2,
         "-",
@@ -4403,7 +4403,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         "-",
         "-",
@@ -4418,97 +4418,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "LÍNGUA PORTUGUESA": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        8,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "MATEMÁTICA": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        11,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        3,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        2,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "PROJETO DE VIDA": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        1,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "REDAÇÃO E LEITURA": {
+    "Língua Inglesa": {
       "notas": [
         "-",
         "-",
@@ -4523,7 +4433,97 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        11,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Tecnologia e Inovação": {
       "notas": [
         "-",
         "-",
@@ -4540,7 +4540,7 @@
     }
   },
   "21": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         5,
         "-",
@@ -4555,7 +4555,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         6,
         "-",
@@ -4570,7 +4570,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         2,
         "-",
@@ -4585,7 +4585,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         9,
         "-",
@@ -4600,7 +4600,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         10,
         "-",
@@ -4615,7 +4615,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         6,
         "-",
@@ -4630,7 +4630,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         5,
         "-",
@@ -4645,22 +4645,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        6,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        2,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -4675,7 +4675,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         5,
         "-",
@@ -4690,7 +4690,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -4705,7 +4705,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         6,
         "-",
@@ -4720,7 +4720,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         6,
         "-",
@@ -4735,7 +4735,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         4,
         "-",
@@ -4750,7 +4750,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         6,
         "-",
@@ -4767,7 +4767,7 @@
     }
   },
   "22": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         7,
         "-",
@@ -4782,7 +4782,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         7,
         "-",
@@ -4797,7 +4797,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         4,
         "-",
@@ -4812,7 +4812,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         8,
         "-",
@@ -4827,7 +4827,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         5,
         "-",
@@ -4842,7 +4842,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         6,
         "-",
@@ -4857,7 +4857,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         6,
         "-",
@@ -4872,22 +4872,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        6,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        2,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         4,
         "-",
@@ -4902,7 +4902,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         5,
         "-",
@@ -4917,7 +4917,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -4932,7 +4932,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         5,
         "-",
@@ -4947,7 +4947,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         7,
         "-",
@@ -4962,7 +4962,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         7,
         "-",
@@ -4977,7 +4977,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         6,
         "-",
@@ -4985,7 +4985,7 @@
         "-"
       ],
       "faltas": [
-        1,
+        10,
         "-",
         "-",
         "-"
@@ -4994,7 +4994,7 @@
     }
   },
   "23": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         5,
         "-",
@@ -5009,7 +5009,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         4,
         "-",
@@ -5024,7 +5024,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         2,
         "-",
@@ -5039,7 +5039,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         7,
         "-",
@@ -5054,7 +5054,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         5,
         "-",
@@ -5069,7 +5069,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         3,
         "-",
@@ -5084,7 +5084,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         4,
         "-",
@@ -5099,22 +5099,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        7,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        5,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         2,
         "-",
@@ -5129,7 +5129,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         4,
         "-",
@@ -5144,7 +5144,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -5159,7 +5159,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         5,
         "-",
@@ -5174,7 +5174,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         6,
         "-",
@@ -5189,7 +5189,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         4,
         "-",
@@ -5204,7 +5204,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         5,
         "-",
@@ -5212,7 +5212,7 @@
         "-"
       ],
       "faltas": [
-        5,
+        10,
         "-",
         "-",
         "-"
@@ -5221,7 +5221,7 @@
     }
   },
   "24": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         6,
         "-",
@@ -5236,7 +5236,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         7,
         "-",
@@ -5251,7 +5251,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         2,
         "-",
@@ -5266,7 +5266,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         7,
         "-",
@@ -5281,7 +5281,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         8,
         "-",
@@ -5296,7 +5296,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         4,
         "-",
@@ -5311,7 +5311,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         6,
         "-",
@@ -5326,22 +5326,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        8,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        2,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         4,
         "-",
@@ -5356,7 +5356,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         4,
         "-",
@@ -5371,7 +5371,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -5386,7 +5386,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         6,
         "-",
@@ -5401,7 +5401,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         7,
         "-",
@@ -5416,7 +5416,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         4,
         "-",
@@ -5431,7 +5431,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         6,
         "-",
@@ -5439,7 +5439,7 @@
         "-"
       ],
       "faltas": [
-        "-",
+        10,
         "-",
         "-",
         "-"
@@ -5448,7 +5448,7 @@
     }
   },
   "25": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         5,
         "-",
@@ -5463,7 +5463,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         5,
         "-",
@@ -5478,7 +5478,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         2,
         "-",
@@ -5493,7 +5493,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         8,
         "-",
@@ -5508,7 +5508,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         10,
         "-",
@@ -5523,7 +5523,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         3,
         "-",
@@ -5538,9 +5538,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
-        4,
+        5,
         "-",
         "-",
         "-"
@@ -5553,9 +5553,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        7,
         "-",
         "-",
         "-"
@@ -5568,7 +5568,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         2,
         "-",
@@ -5583,7 +5583,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         5,
         "-",
@@ -5598,7 +5598,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         3,
         "-",
@@ -5613,7 +5613,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         6,
         "-",
@@ -5628,7 +5628,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         6,
         "-",
@@ -5643,7 +5643,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         4,
         "-",
@@ -5658,7 +5658,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         9,
         "-",
@@ -5675,7 +5675,7 @@
     }
   },
   "26": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         5,
         "-",
@@ -5690,7 +5690,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         5,
         "-",
@@ -5705,7 +5705,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         1,
         "-",
@@ -5720,7 +5720,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         9,
         "-",
@@ -5735,7 +5735,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         5,
         "-",
@@ -5750,7 +5750,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         4,
         "-",
@@ -5765,7 +5765,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         5,
         "-",
@@ -5780,9 +5780,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        8,
         "-",
         "-",
         "-"
@@ -5795,7 +5795,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         3,
         "-",
@@ -5810,9 +5810,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
-        4,
+        5,
         "-",
         "-",
         "-"
@@ -5825,7 +5825,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -5840,7 +5840,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         5,
         "-",
@@ -5855,7 +5855,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         6,
         "-",
@@ -5870,7 +5870,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         5,
         "-",
@@ -5885,7 +5885,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         5,
         "-",
@@ -5902,7 +5902,7 @@
     }
   },
   "27": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         5,
         "-",
@@ -5917,7 +5917,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         7,
         "-",
@@ -5932,7 +5932,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         2,
         "-",
@@ -5947,7 +5947,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         8,
         "-",
@@ -5962,7 +5962,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         8,
         "-",
@@ -5977,7 +5977,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         6,
         "-",
@@ -5992,7 +5992,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         4,
         "-",
@@ -6007,22 +6007,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        8,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        4,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -6037,7 +6037,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         5,
         "-",
@@ -6052,7 +6052,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         4,
         "-",
@@ -6067,7 +6067,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         6,
         "-",
@@ -6082,7 +6082,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         6,
         "-",
@@ -6097,7 +6097,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         3,
         "-",
@@ -6112,7 +6112,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         5,
         "-",
@@ -6129,7 +6129,7 @@
     }
   },
   "28": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         9,
         "-",
@@ -6144,7 +6144,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         8,
         "-",
@@ -6159,7 +6159,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         8,
         "-",
@@ -6174,7 +6174,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         8,
         "-",
@@ -6189,7 +6189,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         9,
         "-",
@@ -6204,7 +6204,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         9,
         "-",
@@ -6219,7 +6219,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         9,
         "-",
@@ -6234,22 +6234,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        8,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        4,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         6,
         "-",
@@ -6264,7 +6264,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         7,
         "-",
@@ -6279,7 +6279,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         6,
         "-",
@@ -6294,7 +6294,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         7,
         "-",
@@ -6309,7 +6309,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         8,
         "-",
@@ -6324,7 +6324,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         7,
         "-",
@@ -6339,7 +6339,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         7,
         "-",
@@ -6356,7 +6356,7 @@
     }
   },
   "29": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         9,
         "-",
@@ -6371,7 +6371,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         9,
         "-",
@@ -6386,7 +6386,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         4,
         "-",
@@ -6401,7 +6401,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         9,
         "-",
@@ -6416,7 +6416,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         10,
         "-",
@@ -6431,7 +6431,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         8,
         "-",
@@ -6446,7 +6446,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         9,
         "-",
@@ -6461,37 +6461,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        8,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        1,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
-      "notas": [
-        7,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        2,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "MATEMÁTICA": {
+    "Língua Portuguesa": {
       "notas": [
         7,
         "-",
@@ -6506,7 +6491,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Matemática": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -6521,7 +6521,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         7,
         "-",
@@ -6536,7 +6536,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         9,
         "-",
@@ -6551,7 +6551,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         8,
         "-",
@@ -6566,7 +6566,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         6,
         "-",
@@ -6583,7 +6583,7 @@
     }
   },
   "30": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         8,
         "-",
@@ -6598,7 +6598,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         8,
         "-",
@@ -6613,7 +6613,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         4,
         "-",
@@ -6628,7 +6628,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         9,
         "-",
@@ -6643,7 +6643,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         9,
         "-",
@@ -6658,7 +6658,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         7,
         "-",
@@ -6673,7 +6673,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         9,
         "-",
@@ -6688,9 +6688,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        8,
         "-",
         "-",
         "-"
@@ -6703,7 +6703,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -6718,7 +6718,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         7,
         "-",
@@ -6733,7 +6733,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         6,
         "-",
@@ -6748,7 +6748,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         7,
         "-",
@@ -6763,7 +6763,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         7,
         "-",
@@ -6778,7 +6778,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         6,
         "-",
@@ -6793,7 +6793,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         6,
         "-",
@@ -6810,7 +6810,7 @@
     }
   },
   "31": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         6,
         "-",
@@ -6825,7 +6825,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         6,
         "-",
@@ -6840,7 +6840,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         3,
         "-",
@@ -6855,7 +6855,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         10,
         "-",
@@ -6870,7 +6870,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         10,
         "-",
@@ -6885,7 +6885,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         6,
         "-",
@@ -6900,7 +6900,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         5,
         "-",
@@ -6915,9 +6915,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        5,
         "-",
         "-",
         "-"
@@ -6930,7 +6930,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         4,
         "-",
@@ -6945,7 +6945,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         5,
         "-",
@@ -6960,7 +6960,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -6975,7 +6975,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         6,
         "-",
@@ -6990,7 +6990,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         7,
         "-",
@@ -7005,7 +7005,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         4,
         "-",
@@ -7020,7 +7020,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         6,
         "-",
@@ -7037,7 +7037,7 @@
     }
   },
   "32": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         7,
         "-",
@@ -7052,7 +7052,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         7,
         "-",
@@ -7067,7 +7067,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         7,
         "-",
@@ -7082,7 +7082,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         10,
         "-",
@@ -7097,7 +7097,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         8,
         "-",
@@ -7112,7 +7112,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         5,
         "-",
@@ -7127,7 +7127,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         5,
         "-",
@@ -7142,67 +7142,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        5,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        1,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
-      "notas": [
-        6,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        4,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "MATEMÁTICA": {
-      "notas": [
-        4,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        2,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
-      "notas": [
-        4,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        2,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Língua Portuguesa": {
       "notas": [
         6,
         "-",
@@ -7210,6 +7165,21 @@
         "-"
       ],
       "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
         2,
         "-",
         "-",
@@ -7217,7 +7187,37 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
       "notas": [
         7,
         "-",
@@ -7232,7 +7232,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         6,
         "-",
@@ -7247,7 +7247,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         7,
         "-",
@@ -7264,7 +7264,7 @@
     }
   },
   "33": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         5,
         "-",
@@ -7279,7 +7279,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         3,
         "-",
@@ -7294,7 +7294,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         1,
         "-",
@@ -7309,7 +7309,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         8,
         "-",
@@ -7324,7 +7324,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         8,
         "-",
@@ -7339,7 +7339,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         2,
         "-",
@@ -7354,7 +7354,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         4,
         "-",
@@ -7369,24 +7369,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "LÍNGUA PORTUGUESA": {
-      "notas": [
-        3,
+        5,
         "-",
         "-",
         "-"
@@ -7399,7 +7384,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Língua Portuguesa": {
       "notas": [
         3,
         "-",
@@ -7407,14 +7392,14 @@
         "-"
       ],
       "faltas": [
-        1,
+        3,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Matemática": {
       "notas": [
         4,
         "-",
@@ -7429,7 +7414,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
       "notas": [
         5,
         "-",
@@ -7444,7 +7444,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         6,
         "-",
@@ -7459,7 +7459,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         5,
         "-",
@@ -7474,9 +7474,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
-        4,
+        5,
         "-",
         "-",
         "-"
@@ -7491,7 +7491,7 @@
     }
   },
   "34": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         9,
         "-",
@@ -7506,7 +7506,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         5,
         "-",
@@ -7521,7 +7521,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         4,
         "-",
@@ -7536,7 +7536,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         8,
         "-",
@@ -7551,7 +7551,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         5,
         "-",
@@ -7566,7 +7566,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         3,
         "-",
@@ -7581,7 +7581,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         4,
         "-",
@@ -7596,22 +7596,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        6,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        1,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -7626,7 +7626,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         4,
         "-",
@@ -7641,7 +7641,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         3,
         "-",
@@ -7656,7 +7656,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         6,
         "-",
@@ -7671,7 +7671,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         6,
         "-",
@@ -7686,7 +7686,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         5,
         "-",
@@ -7701,7 +7701,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         5,
         "-",
@@ -7718,7 +7718,7 @@
     }
   },
   "35": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         8,
         "-",
@@ -7733,7 +7733,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         6,
         "-",
@@ -7748,7 +7748,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         6,
         "-",
@@ -7763,7 +7763,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         8,
         "-",
@@ -7778,7 +7778,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         7,
         "-",
@@ -7793,7 +7793,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         5,
         "-",
@@ -7808,7 +7808,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         7,
         "-",
@@ -7823,9 +7823,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        8,
         "-",
         "-",
         "-"
@@ -7838,7 +7838,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -7853,7 +7853,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         4,
         "-",
@@ -7868,7 +7868,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -7883,7 +7883,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         6,
         "-",
@@ -7898,7 +7898,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         8,
         "-",
@@ -7913,7 +7913,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         6,
         "-",
@@ -7928,7 +7928,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         6,
         "-",
@@ -7945,7 +7945,7 @@
     }
   },
   "36": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         5,
         "-",
@@ -7960,7 +7960,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         5,
         "-",
@@ -7975,7 +7975,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         3,
         "-",
@@ -7990,7 +7990,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         7,
         "-",
@@ -8005,7 +8005,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         3,
         "-",
@@ -8020,7 +8020,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         3,
         "-",
@@ -8035,7 +8035,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         3,
         "-",
@@ -8050,22 +8050,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        7,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        4,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         4,
         "-",
@@ -8080,7 +8080,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         4,
         "-",
@@ -8095,7 +8095,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -8110,7 +8110,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         5,
         "-",
@@ -8125,7 +8125,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         8,
         "-",
@@ -8140,7 +8140,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         5,
         "-",
@@ -8155,7 +8155,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         5,
         "-",
@@ -8172,7 +8172,7 @@
     }
   },
   "37": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         5,
         "-",
@@ -8187,7 +8187,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
+    "Ciências": {
       "notas": [
         4,
         "-",
@@ -8202,7 +8202,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Educação Financeira": {
       "notas": [
         2,
         "-",
@@ -8217,7 +8217,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Física": {
       "notas": [
         7,
         "-",
@@ -8232,7 +8232,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         7,
         "-",
@@ -8247,7 +8247,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         5,
         "-",
@@ -8262,7 +8262,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         4,
         "-",
@@ -8277,22 +8277,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        8,
         "-",
         "-",
         "-"
       ],
       "faltas": [
-        "-",
+        9,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -8307,7 +8307,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         5,
         "-",
@@ -8322,7 +8322,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -8337,7 +8337,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         7,
         "-",
@@ -8352,7 +8352,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         8,
         "-",
@@ -8367,7 +8367,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         5,
         "-",
@@ -8382,7 +8382,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         5,
         "-",
@@ -8399,7 +8399,7 @@
     }
   },
   "38": {
-    "ARTE": {
+    "Arte": {
       "notas": [
         2,
         "-",
@@ -8407,29 +8407,14 @@
         "-"
       ],
       "faltas": [
-        1,
+        9,
         "-",
         "-",
         "-"
       ],
       "faltas_acumuladas": "-"
     },
-    "CIÊNCIAS": {
-      "notas": [
-        4,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        2,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "EDUCAÇÃO FINANCEIRA": {
+    "Ciências": {
       "notas": [
         5,
         "-",
@@ -8444,7 +8429,22 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "EDUCAÇÃO FÍSICA": {
+    "Educação Financeira": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
       "notas": [
         7,
         "-",
@@ -8459,7 +8459,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ELETIVAS": {
+    "Eletivas": {
       "notas": [
         "-",
         "-",
@@ -8474,7 +8474,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "GEOGRAFIA": {
+    "Geografia": {
       "notas": [
         6,
         "-",
@@ -8489,7 +8489,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "HISTÓRIA": {
+    "História": {
       "notas": [
         7,
         "-",
@@ -8504,9 +8504,9 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA INGLESA": {
+    "Língua Inglesa": {
       "notas": [
-        "-",
+        8,
         "-",
         "-",
         "-"
@@ -8519,7 +8519,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "LÍNGUA PORTUGUESA": {
+    "Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -8534,7 +8534,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "MATEMÁTICA": {
+    "Matemática": {
       "notas": [
         7,
         "-",
@@ -8549,7 +8549,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – LÍNGUA PORTUGUESA": {
+    "Orientação de Estudo – Língua Portuguesa": {
       "notas": [
         5,
         "-",
@@ -8564,7 +8564,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "ORIENTAÇÃO DE ESTUDO – MATEMÁTICA": {
+    "Orientação de Estudo – Matemática": {
       "notas": [
         8,
         "-",
@@ -8579,7 +8579,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "PROJETO DE VIDA": {
+    "Projeto de Vida": {
       "notas": [
         7,
         "-",
@@ -8594,7 +8594,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "REDAÇÃO E LEITURA": {
+    "Redação e Leitura": {
       "notas": [
         6,
         "-",
@@ -8609,7 +8609,7 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "TECNOLOGIA E INOVAÇÃO": {
+    "Tecnologia e Inovação": {
       "notas": [
         7,
         "-",
